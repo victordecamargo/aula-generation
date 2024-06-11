@@ -8,5 +8,6 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="src" path="lacosDeRepeticao"/>
 	<classpathentry kind="src" path="AulaCollections"/>
+	<classpathentry kind="src" path="EstruturaDeDados"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
